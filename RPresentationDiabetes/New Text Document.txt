@@ -1,5 +1,0 @@
-<style>
-body {
-  background-image: url("template_main.jpg");
-}
-</style>
