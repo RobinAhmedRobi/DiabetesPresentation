@@ -39,9 +39,8 @@ Diabetes is a condition developed when human body resists or fails to make enoug
 Our core objective is to develop an interactive and free app by integrating machine learning model using R programming to predict if a particular observation is at risk of developing diabetes. The PIMA Indians Diabetes dataset(csv format) used in this project is downloaded from Kaggle and is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 ### Sample Raw DataSet:
-<left>![alt text](DataSet.png)</left>
-
-Data Downloaded from: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+<left>![alt text](DataSet.png)</left><br>
+<font size="6">Data Downloaded from: https://www.kaggle.com/uciml/pima-indians-diabetes-database</font>
 
 Data Pre-processing, Visualization & Model Implementation
 ========================================================
